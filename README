@@ -86,7 +86,7 @@ Once installed, if you wish to use any other features *other* than the share but
 
 	//app/Config/facebook.php
 	$config = array(
-		'Facebook' => array(
+		'FbConfig' => array(
 			'appId'  => 'YOUR_APP_ID',
 			'apiKey' => 'YOUR_API_KEY',
 			'secret' => 'YOUR_SECRET',
